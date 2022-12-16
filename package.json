@@ -2,7 +2,7 @@
   "name": "h221s2_40_alely-quispe",
   "version": "1.0.0",
   "description": "",
-  "main": "login.js",
+  "main": "connect.js",
   "scripts": {
     "start": "npm connect.js"
     },
