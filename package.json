@@ -4,8 +4,8 @@
   "description": "",
   "main": "login.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "nodemon connect.js"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alelyQuispe/H221S2_40_Alely-Quispe.git"
