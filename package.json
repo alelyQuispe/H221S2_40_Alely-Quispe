@@ -1,0 +1,27 @@
+{
+  "name": "h221s2_40_alely-quispe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alelyQuispe/H221S2_40_Alely-Quispe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alelyQuispe/H221S2_40_Alely-Quispe/issues"
+  },
+  "homepage": "https://github.com/alelyQuispe/H221S2_40_Alely-Quispe#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
